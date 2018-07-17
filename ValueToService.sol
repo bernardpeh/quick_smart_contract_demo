@@ -1,7 +1,7 @@
 pragma solidity ^0.4.24;
 
-// Quick demo of how we can use smart contract in our day to day life
-contract QuickSmartContractDemo {
+// Quick demo of how we can use smart contract in our day to day life to exchange value for service
+contract ValueToService {
     
     address public buyer;
     address public seller;

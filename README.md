@@ -1,5 +1,7 @@
 ## Simple Ethereum Smart Contract Demo
 
+Code example as described in medium post - https://medium.com/@blockchain101/using-smart-contracts-in-daily-life-b39f44af0b2a
+
 1. Installation
 
 ```
